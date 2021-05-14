@@ -1,4 +1,4 @@
-# Core Team Challange
+# Core Team Challenge
 
 We use PHP pervasive throughout our backend codebase.
 
@@ -7,7 +7,7 @@ We use PHP pervasive throughout our backend codebase.
 - Create a PHP 7.2 application, using Symfony4 as framwork based on this [architecture file descrition](DefaultArchitecture.pdf).
 - This application must have a database of your choice
 - Application must be deployable using dockerfile
-- Use docker image firmaprofesional/challange [README](https://hub.docker.com/repository/docker/firmaprofesional/challange)
+- Use docker image firmaprofesional/challenge [README](https://hub.docker.com/repository/docker/firmaprofesional/challenge)
 - Please email [Miquel](mailto:mllagostera@firmaprofesional.com) asking for a test certificate working on the docker image provided.
 
 This application must do:
