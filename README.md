@@ -33,4 +33,4 @@ Use whatever development workflow works best for you, we use develop/feature/hot
 
 #### Backend Team
 
-- [PHP Challenge](core-team/php-challenges.md)
+- [PHP Challenge](core-team/php-challenge.md)
